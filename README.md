@@ -65,13 +65,12 @@ for($pc = 0; $pc < count($program); $pc++){                |
 - [The Original brainfuck interpreter source code](https://github.com/kgabis/brainfuck-go/blob/master/bf.go)
 - The mandelbrot set fractal viewer in brainfuck written by Erik Bosman
 
+# Author
+- @karminski contributed to PHP, Lua benchmark scripts
+- @hubo1016 contributed to JavaScript, Python benchmark scripts
+
+Thanks guys.
+
 # License
 - [The MIT License (MIT)](http://opensource.org/licenses/mit-license.php)
-
-
-# One more thing
-
-顺便这个程序的 Go 测试结果为:  
-
-![go-brainfuck-interpreter-benchmark](./assets/images/go-brainfuck-interpreter-benchmark.png)
 
